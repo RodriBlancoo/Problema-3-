@@ -61,8 +61,14 @@
     <Compile Include="Conexion\Conexion.cs" />
     <Compile Include="Entidades\Administrador.cs" />
     <Compile Include="Entidades\Almacenista.cs" />
+    <Compile Include="Entidades\Inventarios.cs" />
+    <Compile Include="Entidades\Productos.cs" />
+    <Compile Include="Entidades\Provedores.cs" />
+    <Compile Include="Entidades\Reportes.cs" />
+    <Compile Include="Entidades\Roles.cs" />
     <Compile Include="Entidades\Usuario.cs" />
     <Compile Include="Entidades\Vendedor.cs" />
+    <Compile Include="Entidades\Ventas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

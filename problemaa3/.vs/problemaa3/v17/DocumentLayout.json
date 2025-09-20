@@ -1,50 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\",
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\modelos\\entidades\\almacenista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\almacenista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\modelos\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\modelos\\entidades\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC7D95D-D723-48CB-BA2E-9B22BF7E8576}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\documents\\ejercicio 3\\problemaa3\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,131 +46,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "Modelos\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "Modelos\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:37:47.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T15:37:56.305Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Usuario.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmProvedores.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProvedores.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProvedores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:58:36.848Z",
+              "WhenOpened": "2025-09-20T21:35:07.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Almacenista.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Almacenista.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Almacenista.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Almacenista.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Almacenista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmInventario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmInventario.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:58:31.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vendedor.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Vendedor.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Vendedor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Vendedor.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Vendedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:57:35.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T21:21:43.194Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Administrador.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Administrador.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Modelos\\Entidades\\Administrador.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:57:11.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T21:17:55.44Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmPricipalRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPricipalRegistro.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs",
-              "RelativeToolTip": "Vistas\\Formularios\\frmPricipalRegistro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmReportes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmReportes.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmReportes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:38:45.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T21:17:53.01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmRegistrarUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmRegistrarUsuario.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs",
-              "RelativeToolTip": "Vistas\\Formularios\\frmRegistrarUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "frmProvedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProvedores.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProvedores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:37:38.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T16:01:50.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmLogin.cs",
-              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "frmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProductos.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:36:03.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:34:26.481Z",
+              "WhenOpened": "2025-09-20T14:01:54.355Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmRegistrarUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmRegistrarUsuario.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmRegistrarUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T15:31:47.477Z",
@@ -186,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmPricipalRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPricipalRegistro.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmPricipalRegistro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T15:31:23.014Z",

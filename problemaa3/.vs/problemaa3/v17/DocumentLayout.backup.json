@@ -1,12 +1,243 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\Ejercicio 3\\problemaa3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmpricipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprovedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|c:\\users\\rodri\\onedrive\\documentos\\nueva carpeta (2)\\problema-3-\\problemaa3\\vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE7781-0A3B-4011-B505-1A197C9D66D3}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProvedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProvedores.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProvedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProvedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:01:50.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRoles.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRoles.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmRoles.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRoles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmRoles.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:01:33.736Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVentas.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:00:46.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:54:21.6Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmPrincipal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:37:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:37:56.305Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmReportes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmReportes.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:37:32.319Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmInventario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmInventario.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:02:27.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:02:13.288Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProductos.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProductos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:37:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmProductos.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:01:54.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:31:47.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPricipalRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmPricipalRegistro.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Documentos\\Nueva carpeta (2)\\Problema-3-\\problemaa3\\Vistas\\Formularios\\frmPricipalRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmPricipalRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:31:23.014Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

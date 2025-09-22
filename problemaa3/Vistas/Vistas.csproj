@@ -59,18 +59,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Controles\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controles\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\frmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controles\frmRegistro.Designer.cs">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frmInventario.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\frmInventario.Designer.cs">
       <DependentUpon>frmInventario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\frmLogin.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Formularios\frmLogin.Designer.cs">
-      <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frmPricipalRegistro.cs">
       <SubType>Form</SubType>
@@ -96,12 +101,6 @@
     <Compile Include="Formularios\frmProvedores.Designer.cs">
       <DependentUpon>frmProvedores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frmRegistrarUsuario.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Formularios\frmRegistrarUsuario.Designer.cs">
-      <DependentUpon>frmRegistrarUsuario.cs</DependentUpon>
-    </Compile>
     <Compile Include="Formularios\frmReportes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,11 +113,15 @@
     <Compile Include="Formularios\frmVentas.Designer.cs">
       <DependentUpon>frmVentas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Formularios\frmLogin.resx">
+    <EmbeddedResource Include="Controles\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\frmRegistro.resx">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmPricipalRegistro.resx">
       <DependentUpon>frmPricipalRegistro.cs</DependentUpon>
@@ -132,15 +135,15 @@
     <EmbeddedResource Include="Formularios\frmProvedores.resx">
       <DependentUpon>frmProvedores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\frmRegistrarUsuario.resx">
-      <DependentUpon>frmRegistrarUsuario.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmVentas.resx">
       <DependentUpon>frmVentas.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Recurces\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

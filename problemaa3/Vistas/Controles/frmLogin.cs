@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Vistas.Formularios
+namespace Vistas.Controles
 {
-    public partial class frmRegistrarUsuario : UserControl
+    public partial class frmLogin : Form
     {
-        public frmRegistrarUsuario()
+        public frmLogin()
         {
             InitializeComponent();
         }

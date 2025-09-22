@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vistas
+namespace Modelos.Entidades
 {
-    public class Class1
+    internal class DetalleVenta
     {
     }
 }

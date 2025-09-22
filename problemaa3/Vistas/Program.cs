@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modelos.Entidades
+namespace Vistas
 {
-    internal class Administrador
+    internal class Program
     {
     }
 }
